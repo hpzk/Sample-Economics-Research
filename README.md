@@ -1,6 +1,6 @@
 # Sample Economics Research
 
-# The research on sovereign wealth funds encompassed all such funds which are active today, comprising 80 countries.
+### The research on sovereign wealth funds encompassed all such funds which are active today, comprising 45 countries with funds compared with a control group.
 ![alt text](https://github.com/hpzk/Sample-Economics-Research/blob/main/img/data_screenshot_1.png)
 
 # The host country economic indicators that were studied in relation to the performace of each fund.
