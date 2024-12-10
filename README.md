@@ -1,5 +1,10 @@
 # Sample Economics Research
 
+Time series data focus, stata, R. 
+Regression methods, moments, and statistical learning. 
+Data challenges not just SWFs
+
+
 ## The research on sovereign wealth funds encompassed all such funds which are active today, comprising 45 countries compared to a control group.
 ![alt text](https://github.com/hpzk/Sample-Economics-Research/blob/main/img/data_screenshot_1.png)
 
